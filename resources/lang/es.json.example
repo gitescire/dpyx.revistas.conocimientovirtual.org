@@ -1,0 +1,26 @@
+{
+    "enviar cuestionario": "enviar evaluación",
+    "containerName": "revista",
+    "containerNamePlural": "revistas",
+
+    "messages.Controllers.Repositories.SendRepositoryController.AlertSuccess": "¡La revista ha sido enviado exitosamente!",
+    
+    "messages.views.instructions.evaluators.text1": "en donde serán listadas las revistas que te pertenecen. Con el botón",
+    "messages.views.instructions.evaluators.text2": "Revisa las revistas",
+    "messages.views.instructions.evaluators.text3" : "¿Cómo evaluar las revistas?",
+    
+    "messages.views.instructions.users.text1":"de la revista que desees",
+    "messages.views.instructions.users.text2":"La revista fue <span class='text-success'><b>aceptada</b>",
+    "messages.views.instructions.users.text3":"La revista",
+
+    "messages.views.instructions.admins.text1": "las revistas",
+
+    "messages.views.livewire.evaluations.categories.questions.index.text1": "la revista",
+
+    "messages.views.livewire.repositories.index.text1": "Este módulo permite listar las revistas pertenecientes a los usuarios.",
+
+    "messages.views.livewire.repositories.statistics.show.text1": "Estadisticas de la revista",
+
+    "messages.views.pdfs.evaluation.text1": " ",
+    "messages.views.pdfs.evaluation.text2": " "
+}
